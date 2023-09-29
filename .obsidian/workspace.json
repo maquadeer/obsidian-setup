@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "a5fd8328c6d9eee8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3a3ff8389680dca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27a91ad814884528",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quadeer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39dffaa1c4047155",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "821fe68bd7f9913a",
+    "type": "split",
+    "children": [
+      {
+        "id": "144505bf66086375",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1deffc9dbf4d8771",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "66ef5d2a04d0d5ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d03d36177e18dadf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0abf2ce86476c08c",
+    "type": "split",
+    "children": [
+      {
+        "id": "35a4a7daf4ed14d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b7ecaebfbfdeb53",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62181171ef9c04b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e38170eca9eec116",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7d50f9c7eaae3d23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "homepage:Open homepage": false,
+      "obsidian-book-search-plugin:Create new book note": false
+    }
+  },
+  "active": "39dffaa1c4047155",
+  "lastOpenFiles": [
+    "obsidian-setup",
+    "Quadeer.md",
+    "Untitled.md",
+    "books.md",
+    "library.md",
+    "Home.md",
+    "link-to-image.md",
+    "link-to-book.md",
+    "Quadeer Notes.md",
+    "Untitled 1.md",
+    "HOME.md"
+  ]
+}
